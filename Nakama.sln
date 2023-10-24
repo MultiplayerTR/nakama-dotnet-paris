@@ -5,10 +5,6 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nakama", "Nakama\Nakama.csproj", "{A6440B73-D30E-4EAD-BC96-A834CE1DCC57}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nakama.Tests", "Nakama.Tests\Nakama.Tests.csproj", "{65EA41AD-C2EF-4F94-A466-927FAD7E8C1C}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Satori.Tests", "Satori.Tests\Satori.Tests.csproj", "{8801930E-55DC-43D8-841D-186E5F08B8C1}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Satori", "Satori\Satori.csproj", "{BD306F3C-4E6F-40C5-89BE-7071597BE626}"
 EndProject
 Global
